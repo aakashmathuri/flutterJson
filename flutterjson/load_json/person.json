@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Aakash Kumar",
+        "age" : "23",
+        "height" : "173",
+        "gender" : "male",
+        "hair_color": "black"
+    },
+    {
+        "name" : "Sujata Singh",
+        "age" : "22",
+        "height" : "170",
+        "gender" : "female",
+        "hair_color": "black"
+    },
+    {
+        "name" : "Aman",
+        "age" : "23",
+        "height" : "173",
+        "gender" : "male",
+        "hair_color": "black"
+    },
+    {
+        "name" : "Sweta",
+        "age" : "23",
+        "height" : "153",
+        "gender" : "female",
+        "hair_color": "brown"
+    }
+]
